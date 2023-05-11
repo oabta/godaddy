@@ -1,9 +1,8 @@
 ---
 
-**Documentation
-**: [https://www.godaddy.docs.oabta.com/](https://godaddy.docs.oabta.com/)
+**Documentation**: [https://www.godaddy.docs.oabta.com/](https://godaddy.docs.oabta.com/)
 
----
+--- 
 
 # GoDaddy API Client
 
